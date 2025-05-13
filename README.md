@@ -30,3 +30,9 @@ Make sure you have **Python 3.7+** installed.
 Install dependencies:
 ```bash
 pip install opencv-python mediapipe pygame
+
+##
+
+git clone https://github.com/spade-codee/gesture-drawing-app.git
+cd gesture-drawing-app
+
